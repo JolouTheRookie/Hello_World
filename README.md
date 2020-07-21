@@ -5,5 +5,3 @@ Entitled
 "Hello World"
 solving issue #1 
 "Add Code"
-
-Tisting lng kng pwede ku ka push sa github using vs code.
